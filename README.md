@@ -1,4 +1,4 @@
-# nodejs_winston
+# Winston
 nodejs 로깅 모듈 winston
 
 - Basics
