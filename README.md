@@ -72,7 +72,7 @@ nodejs 로깅 모듈 winston
 
 
  - constructor
-    winston-daily-rotate-file'을 두 개 사용하려면 따로 설정이 필요한 듯 하다
+    - winston-daily-rotate-file'을 두 개 사용하려면 따로 설정이 필요한 듯 하다
   
     ```javaScript
     var winston = require('winston');
